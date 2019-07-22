@@ -14,8 +14,11 @@ https://stanfordmlgroup.github.io/competitions/chexpert/) to your Google Drive a
 
 In my implementation, I got results which were very close to the paper: (Here I report only the average of the 5 pathologies in the paper)
   For zeros: 86.2% vs 88.9% in the paper
+  
   For ones: 86.4% vs 89.3% in the paper
+  
   For ignore: 85.8% vs 88.9% in the paper
+  
   For multiclass: 86.2% vs 89.5% in the paper
 
   
